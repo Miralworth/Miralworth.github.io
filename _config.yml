@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemonchann's blog"
+name: "米拉的自留地"
 # Short bio or description (displayed in the header)
-description: "learning and practicing make skillfull"
+description: "坎坷之路，终抵群星 Per Aspera Ad Astra"
 
 #
 # Flags below are optional
@@ -15,7 +15,7 @@ description: "learning and practicing make skillfull"
 avatar: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/blog.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon: https://github.com/Miralworth/Miralworth.github.io/raw/master/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
