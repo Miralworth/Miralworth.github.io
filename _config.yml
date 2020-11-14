@@ -8,34 +8,43 @@ name: "米拉的自留地"
 description: "坎坷之路，终抵群星 Per Aspera Ad Astra"
 
 #
-# Flags below are optional
+# 可选设置：Flags below are optional
 #
 
+
+#博客logo图片
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/Miralworth/Miralworth.github.io/raw/master/images/blog.jpg
-
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/Miralworth/Miralworth.github.io/raw/master/images/favicon.ico
 
+
+
+# 菜单中的按钮
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
+  - name: 首页 #Blog
     url: /
-  - name: About
+  - name: 关于
     url: /about
-  - name: Archive
+  - name: 归档 #Archive
     url: /archive
-  - name: Tags
+  - name: 标签 #Tags
     url: /tags
 
+
+# 每页的文章数
 # Pagination
 paginate: 8
 
+# 文章简介的区分标记
 excerpt_separator: <!-- more -->
 
+
+# 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 # Includes an icon in the footer for each username you enter
 footer-links:
   weibo: miralworth #请输入你的微博个性域名 https://www.weibo.com/<thispart>
@@ -57,11 +66,16 @@ footer-links:
   youtube:
   lofter: miralworth
 
+# 站点页脚的文字
 # Text under the icons in footer
 footer-text: Copyright (c) 2020 Miralworth
 
+
+# 评论，注意，请不要同时添加多种不同的评论区
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
+
+# 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点
 disqus: # fromendworld
 
 # Gitalk
