@@ -76,14 +76,15 @@ footer-text: Copyright (c) 2020 Miralworth
 # You can find your shortname on the Settings page of your Disqus account
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点
-disqus: # fromendworld
+disqus: Miralworth
+# fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 9e4cfdab5f02498fe6a7
-  clientSecret: a0e0c6fa8510fc7929fdef95c1c0664f68debb43
-  repo: miralworth.github.io
-  owner: Miralworth
+  clientID: #9e4cfdab5f02498fe6a7
+  clientSecret: #a0e0c6fa8510fc7929fdef95c1c0664f68debb43
+  repo: #miralworth.github.io
+  owner: #Miralworth
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
