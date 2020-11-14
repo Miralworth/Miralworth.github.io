@@ -1,4 +1,12 @@
-﻿**冬日里梦到的一个夏夜**  
+---
+layout: post
+title: "【段邢】冬日里梦到的一个夏夜 PWP"
+date:   2020-10-16
+tags: [段邢, 龙虞衍生]
+comments: true
+author: 米拉
+---
+
   
 *题记：记录梦到的奇怪的段邢doi。*  
   
