@@ -2,7 +2,7 @@
 layout: post
 title: "【等峰ABO】高小婉的故事 1-6"
 date:   2020-09-05
-tags: [等峰]
+tags: [等峰, 昭白]
 comments: true
 author: 米拉
 ---
