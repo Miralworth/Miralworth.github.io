@@ -2,10 +2,9 @@
 layout: post
 title: "【等峰ABO】高小婉的故事 1-6"
 date:   2020-09-05
-tags: [等峰][高小婉]
+tags: [等峰]
 comments: true
-author: Miralworth
-toc: true
+author: 米拉
 ---
 
 【等峰ABO】高小婉的故事 1-6 
