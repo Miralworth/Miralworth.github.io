@@ -76,7 +76,7 @@ footer-text: Copyright (c) 2020 Miralworth
 # You can find your shortname on the Settings page of your Disqus account
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点
-disqus: Miralworth
+disqus: miralworth
 # fromendworld
 
 # Gitalk
