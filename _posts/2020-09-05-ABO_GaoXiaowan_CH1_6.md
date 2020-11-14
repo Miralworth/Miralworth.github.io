@@ -1,5 +1,17 @@
-﻿
-【等峰ABO】高小婉的故事
+---
+layout: post
+title: "【等峰ABO】高小婉的故事 1-6"
+date:   2020-09-05
+tags: [等峰][高小婉]
+comments: true
+author: lemonchann
+toc: true
+---
+
+【等峰ABO】高小婉的故事 1-6 
+简介：等峰带娃日常，就是和阿九的各种口嗨小段子，甜就对了www
+
+p.s. 谁说我只会发刀的！【叉腰
 
 1
 
