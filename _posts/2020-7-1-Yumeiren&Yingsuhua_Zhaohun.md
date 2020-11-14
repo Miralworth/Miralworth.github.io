@@ -12,8 +12,8 @@ author: 米拉
 为啥是何潮生？专业的事当然要交给专业的人做嘿嘿  
 应该是个中短篇吧，或者是个欺负师座的pwp故事集。
 
-[第一章｜兵变](https://miralworth.github.io/Yumeiren&Yingsuhua_Bingbian/)
-##第二章｜招魂
+[第一章｜兵变](https://miralworth.github.io/Yumeiren&Yingsuhua_Bingbian/)  
+## 第二章｜招魂  
 简介：招魂楚些何嗟及，山鬼暗啼风雨。
 龙文章祝您七夕快乐！
 
