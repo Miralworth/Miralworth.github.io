@@ -89,8 +89,10 @@ footer-text: Copyright (c) 2020 Miralworth
  
 #Valine
 valine:
+enable: true
   app_id: plmtx5wz1d5lLTmC87q0ouYd-MdYXbMMI
   app_key: GWTbNoObBkORp4BlupWF9mWP
+  placeholder: Just go go
   
 
 
