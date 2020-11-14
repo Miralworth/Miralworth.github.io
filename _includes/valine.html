@@ -1,3 +1,6 @@
+{% if site.valine %}
+<div class="comments">
+       
 <script>
     new Valine({
         av: AV,
@@ -7,3 +10,6 @@
         placeholder:'{{ site.data.social.valine_comment.placeholder }}'
     });
 </script>
+    
+</div>
+{% endif %}
