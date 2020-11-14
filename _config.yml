@@ -32,7 +32,7 @@ navigation:
     url: /about
   - name: 归档 #Archive
     url: /archive
-  - name: Tag
+  - name: 标签
     url: /tags
 
 
